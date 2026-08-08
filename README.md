@@ -1,5 +1,8 @@
 ## Olist E-Commerce Sales & Operations Dashboard
-Author: Pooja Nagude Tool: Microsoft Power BI Dataset: Brazilian E-Commerce Public Dataset by Olist (Kaggle) Report type: 3-page interactive Power BI dashboard
+Author: Pooja Nagude 
+Dataset: Brazilian E-Commerce Public Dataset by Olist (Kaggle) 
+Report type: 3-page interactive Power BI dashboard
+## DashBoard Link: https://app.powerbi.com/groups/me/reports/bde50b2d-426d-416d-b1ac-d3ef54ecb803/e35e790834ab0976ce5c?experience=power-bi
 
 ## 1. Business Problem
 Olist is a Brazilian e-commerce marketplace that connects small businesses to major online sales channels. Leadership needs a single source of truth to answer three recurring questions:
